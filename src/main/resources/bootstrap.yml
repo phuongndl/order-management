@@ -1,9 +1,9 @@
 spring:
   application:
-    name: 'order'
+    name: order
   profiles:
-    active:
-    - default
+    active: default
   cloud:
     config:
-      url: http://localhost:8888
+      name: order
+      uri: http://localhost:8888
