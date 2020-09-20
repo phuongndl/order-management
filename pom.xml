@@ -117,12 +117,6 @@
 			<version>2.1.5</version>
 		</dependency>
 		
-		<!-- OpenFeign - Ribbon -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
-		</dependency>
-		
 		<!-- Spring Actuator -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
